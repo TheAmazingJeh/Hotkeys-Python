@@ -1,6 +1,6 @@
 
-from pynput.keyboard import Controller as KBController
-from pynput.mouse import Controller as MouseController
+from pynput.keyboard import Controller as KBController, Key
+from pynput.mouse import Controller as MouseController, Button
 from pynput import mouse, keyboard
 
 # Constants
